@@ -2,11 +2,36 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: A list of courses I have taught.
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+* <p><b>2023 IDS2935 Language and Emotion</b><br />
+	University of Florida<br />
+	Supervisor: Dr. Ann Wehmeyer<br />
+    Role: Graduate teaching assistant</p>
 
-Organize your courses by years, topics, or universities, however you like!
+* <p><b>2021 - 2023 The Sound Structure of English (Online)</b><br />
+	Harbour Education Co. Ltd.<br />
+	Supervisor: Prof. John Harris (UCL)<br />
+	Role: Teaching assistant & instructor</p>
+
+* <p><b>2022 Educational Psychology: Education, School and Society (Online)</b><br />
+	Harbour Education Co. Ltd.<br />
+	Supervisor: Prof. Geoff Hayward (UCambridge)<br /> 
+	Role: Teaching assistant & instructor</p>
+
+* <p><b>2022 American Revolution: Politics, Society and Economic Life (Online)</b><br />
+	Harbour Education Co. Ltd.<br />
+	Supervisor: Dr. Amy Dru Stanley (UChicago)<br />
+	Role: Teaching assistant & instructor</p>
+
+* <p><b>2018 - 2020 Ling106 Introductory Linguistics</b><br />
+	University of Kansas<br />
+	Supervisors: Dr. Philip Duncan and Prof. Alison Gabriele<br />
+	Role: Graduate teaching assistant</p>
+
+* <p><b>2018 American Spoken English, TOEFL, and IELTS</b><br />
+	Meten International Education Corporation<br />
+	Role: Instructor</p>

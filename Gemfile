@@ -22,7 +22,7 @@ group :jekyll_plugins do
 #    gem 'htmlcompressor'
 #    gem 'htmlbeautifier'
 #    gem 'faraday-retry'
-#    gem 'jekyll-pdf-embed'
+    gem 'jekyll-pdf-embed'
 end
 group :other_plugins do
     gem 'httparty'

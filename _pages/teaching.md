@@ -16,19 +16,19 @@ nav_order: 4
 * <p><b>The Sound Structure of English (Online)</b><br />
 	2021 Spring, Summer, Fall; 2022 Spring, Summer, Fall<br />
 	Harbour Education Co. Ltd.<br />
-	Supervisor: Prof. John Harris (UCL)<br />
+	Co-instructor: Prof. John Harris (UCL)<br />
 	Role: Teaching assistant & instructor</p>
 
 * <p><b>Educational Psychology: Education, School and Society (Online)</b><br />
 	2022 Summer<br />
 	Harbour Education Co. Ltd.<br />
-	Supervisor: Prof. Geoff Hayward (UCambridge)<br /> 
+	Co-instructor: Prof. Geoff Hayward (UCambridge)<br /> 
 	Role: Teaching assistant & instructor</p>
 
 * <p><b>American Revolution: Politics, Society and Economic Life (Online)</b><br />
 	2022 Spring<br />
 	Harbour Education Co. Ltd.<br />
-	Supervisor: Dr. Amy Dru Stanley (UChicago)<br />
+	Co-instructor: Dr. Amy Dru Stanley (UChicago)<br />
 	Role: Teaching assistant & instructor</p>
 
 * <p><b>Ling106 Introductory Linguistics</b><br />

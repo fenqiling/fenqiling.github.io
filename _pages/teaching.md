@@ -7,6 +7,11 @@ nav: true
 nav_order: 4
 ---
 
+* <p><b>LING401 Topics in Phonetics</b><br />
+	2023 Fall<br />
+	Simon Fraser University<br />
+    Role: Lecturer</p>
+
 * <p><b>IDS2935 Language and Emotion</b><br />
 	2023 Summer<br />
 	University of Florida<br />

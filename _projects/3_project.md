@@ -3,7 +3,7 @@ layout: page
 title: sound variation
 description: phonetic variation of sounds in accented Mandarin
 img: assets/img/13.jpg
-importance: 1
+importance: 2
 ---
 
 I am particularly interested in the sound variation of the lateral and retroflex fricative sounds in accented Mandarin, as native speakers of southern Chinese dialects may not produce these two sounds accurately in Mandarin. My research questions are as follows: (1) How would native dialectal background affect the phonetic variations of the two sounds in accented Mandarin? (2) What phonological factors may influence the phonetic realization of the sounds in accented Mandarin? 

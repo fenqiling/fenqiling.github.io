@@ -3,7 +3,7 @@ layout: page
 title: vocal emotions
 description: how people encode and decode emotions in speech
 img: assets/img/0.jpg
-importance: 2
+importance: 1
 ---
 
 Emotions play an essential role in our daily communication. The emotional interaction between the speaker and the listener is a prerequisite for a successful dialogue. During the communication, the speaker uses a set of cues (i.e., verbal, vocal, and visual) to signal the intended emotions. In turn, the intended emotional responses are induced by the listeners after hearing the signals. The expression and perception of emotions in speech is complex in nature such that no consensus has been reached regarding the encoding and decoding mechanism of emotions in speech as well as the link between them. In addition, the relative contribution and significance of universal and linguistic specificity in interpreting emotions remain inconclusive.

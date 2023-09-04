@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Department of Linguistics, UF <br> <a href='#'>fenqiw@gmail.com</a>. 
+subtitle: Department of Linguistics, SFU <br> <a href='#'>fenqiw@gmail.com</a>. 
 
 profile:
   align: right

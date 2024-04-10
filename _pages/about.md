@@ -14,7 +14,7 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I'm a lecturer and postdoctoral fellow in the [Department of Linguistics](https://www.sfu.ca/linguistics.html) at Simon Fraser University, supervised by Dr. [Henny Yeung](https://www.sfu.ca/linguistics/people/faculty/yeung.html) and Dr. [Yue Wang](https://www.sfu.ca/linguistics/people/faculty/wang.html). I completed my PhD in Linguistics at the University of Florida, where I was advised by Dr. [Ratree Wayland](https://slam.lin.ufl.edu/people/ratree-wayland/). 
+I'm a postdoctoral fellow in the [Department of Linguistics](https://www.sfu.ca/linguistics.html) at Simon Fraser University, supervised by Dr. [Henny Yeung](https://www.sfu.ca/linguistics/people/faculty/yeung.html) and Dr. [Yue Wang](https://www.sfu.ca/linguistics/people/faculty/wang.html). I completed my PhD in Linguistics at the University of Florida, where I was advised by Dr. [Ratree Wayland](https://slam.lin.ufl.edu/people/ratree-wayland/). 
 
 My general research interests lie in speech production, speech perception, sound variation, speech emotion recognition, and bilingualism. In my studies, I have used a variety of research methods, including behavioral, neuroimaging, and computational techniques. 
 

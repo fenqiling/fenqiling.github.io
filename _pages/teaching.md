@@ -7,6 +7,11 @@ nav: true
 nav_order: 4
 ---
 
+* <p><b>LING330 Phonetics</b><br />
+	2024 Summer<br />
+	Simon Fraser University<br />
+    Role: Instructor</p>
+
 * <p><b>LING401 Topics in Phonetics</b><br />
 	2023 Fall<br />
 	Simon Fraser University<br />

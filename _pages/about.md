@@ -14,10 +14,12 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I'm a postdoctoral fellow in the [Department of Linguistics](https://www.sfu.ca/linguistics.html) at Simon Fraser University, supervised by Dr. [Henny Yeung](https://www.sfu.ca/linguistics/people/faculty/yeung.html) and Dr. [Yue Wang](https://www.sfu.ca/linguistics/people/faculty/wang.html). I completed my PhD in Linguistics at the University of Florida, where I was advised by Dr. [Ratree Wayland](https://slam.lin.ufl.edu/people/ratree-wayland/). 
+I'm a term lecturer and postdoctoral fellow in the [Department of Linguistics](https://www.sfu.ca/linguistics.html) at Simon Fraser University, supervised by [Henny Yeung](https://www.sfu.ca/linguistics/people/faculty/yeung.html) and [Yue Wang](https://www.sfu.ca/linguistics/people/faculty/wang.html). I completed my PhD in Linguistics at the University of Florida, where I was advised by [Ratree Wayland](https://slam.lin.ufl.edu/people/ratree-wayland/). 
 
-My general research interests lie in speech production, speech perception, sound variation, speech emotion recognition, and bilingualism. In my studies, I have used a variety of research methods, including behavioral, neuroimaging, and computational techniques. 
+My research interests encompass a broad spectrum of topics within the field of linguistics, including speech production, speech perception, sound variation, speech emotion recognition, and bilingualism. Utilizing a comprehensive suite of research methodologies—behavioral studies, neuroimaging, and computational techniques—my studies aim to advance our understanding of these areas.
 
-I’m currently investigating the [vocal emotions](/projects/1_project/) in American English and Mandarin Chinese, aiming to unravel the complexities of the expression and perception of emotions in speech. In addition, I am interested in [sound variation](/projects/3_project/) in accented Mandarin and am exploring the use of [deep/machine learning models](/projects/2_project/) to analyze the phonetic variation of certain sounds in accented Mandarin.
+Presently, I am focused on investigating the expression and perception of [vocal emotions](/projects/1_project/) in different languages, striving to elucidate the complexities of emotional communication in speech. Further details on this research can be found here.
 
-Trained as a linguist, I combine linguistic theories with experimental and computational methods to study speech and the brain. My work has been published in various [journals and conferences](/publications/).
+In addition, my work on sound variation in accented Mandarin explores [phonetic variation](/projects/3_project/) through the application of advanced [deep/machine learning models](/projects/2_project/), which can be explored further here.
+
+Trained in linguistics, my research integrates linguistic theory with experimental and computational methods to examine the interplay between speech and cognitive processes. My work has been published in various [journals and conferences](/publications/).

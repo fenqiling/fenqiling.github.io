@@ -1,17 +1,19 @@
 ---
 layout: page
-title: speech emotion recognition
-description: how machines recognize emotions in speech
-img: assets/img/6.jpg
-importance: 3
+title: sound variation
+description: phonetic variation of sounds in accented Mandarin
+img: assets/img/13.jpg
+importance: 2
 ---
 
-Speech emotion recognition by machines is a difficult task due to the subjective nature of emotions, as opposed to the effortless perception of emotions in the speech by humans. How does the classification of emotional utterances by human raters differ from machine learning models? Which emotion types show a strong correlation between human raters’ performance and modeling results? 
+I am particularly interested in exploring the sound variation of the lateral and retroflex fricative sounds in accented Mandarin, as these sounds may not be produced accurately by native speakers of southern Chinese dialects when speaking Mandarin. My research investigates two main questions: (1) How does native dialectal background influence the phonetic variations of these two sounds in accented Mandarin? (2) What phonological factors may affect the phonetic realization of these sounds in accented Mandarin?
 
-To answer these two questions, in addition to gathering human ratings of emotional utterances, this project uses the openSMILE Python package to extract a large set of features. A subset of selected features is then used to train support vector machines (SVM) and convolutional neural network (CNN) classifiers to predict the emotion labels of utterances. The work is still ongoing and preliminary findings will be reported at the ASA meeting in Chicago in May.
+To examine the acoustic features of these two sounds among speakers of accented Mandarin, acoustic measurements were extracted from the production of Mandarin words that begin with these sounds. These measurements were then analyzed using random forest classification. The classification accuracy provides a metric for assessing the relative similarity of these two sounds across different dialectal regions. Furthermore, the computation of conditional feature importance helps illuminate the relative impact of acoustic measurements and phonological factors in predicting the pronunciation of these sounds in accented Mandarin.
+
+More findings from this research will be available soon. Please stay tuned for updates.
 
 <div class="publications">
 
-{% bibliography -f project_2 --group_by section, year --group_order descending, descending %}
+{% bibliography -f project_3 --group_by section, year --group_order descending, descending %}
 
 </div>

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: speech biomarker
-description: use speech as biomarker for medical and linguistic purposes
+description: use speech as a biomarker for clinical diagnosis
 img: assets/img/4.jpg
 importance: 4
 ---

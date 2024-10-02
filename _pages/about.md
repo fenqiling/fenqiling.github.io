@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Research Fellow in Neurology Artificial Intelligence at the Mayo Clinic, where I collaborate with Dr. [Hugo Botha] (https://www.mayo.edu/research/faculty/botha-hugo-m-b-ch-b/bio-20452613) to apply deep learning models for monitoring neurodegenerative diseases, particularly frontotemporal dementia, through remote voice recordings. My work focuses on tracking subtle speech changes that may serve as early indicators of cognitive decline, aiming to develop a non-invasive, cost-effective method for continuous disease monitoring.
+I am a Research Fellow in Neurology Artificial Intelligence at the Mayo Clinic, where I collaborate with Dr. [Hugo Botha](https://www.mayo.edu/research/faculty/botha-hugo-m-b-ch-b/bio-20452613) to apply deep learning models for monitoring neurodegenerative diseases, particularly frontotemporal dementia, through remote voice recordings. My work focuses on tracking subtle speech changes that may serve as early indicators of cognitive decline, aiming to develop a non-invasive, cost-effective method for continuous disease monitoring.
 
 Before joining Mayo Clinic, I was a Postdoctoral Fellow in the Department of Linguistics at Simon Fraser University. I hold a PhD in Linguistics from the University of Florida, where I was mentored by Dr. [Ratree Wayland](https://slam.lin.ufl.edu/people/ratree-wayland/).
 

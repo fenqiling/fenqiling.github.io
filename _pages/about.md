@@ -14,10 +14,13 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I'm a term lecturer and postdoctoral fellow in the [Department of Linguistics](https://www.sfu.ca/linguistics.html) at Simon Fraser University, supervised by [Henny Yeung](https://www.sfu.ca/linguistics/people/faculty/yeung.html) and [Yue Wang](https://www.sfu.ca/linguistics/people/faculty/wang.html). I completed my PhD in Linguistics at the University of Florida, where I was advised by [Ratree Wayland](https://slam.lin.ufl.edu/people/ratree-wayland/). 
 
-My research interests encompass a broad spectrum of topics within the field of linguistics, including speech production, speech perception, sound variation, speech emotion recognition, and bilingualism. By employing a diverse array of research methodologies including behavioral studies, neuroimaging, and computational techniques, my work seeks to deepen our understanding of these complex topics.
+I am a Research Fellow in Neurology Artificial Intelligence at the Mayo Clinic, where I collaborate with Dr. [Hugo Botha] (https://www.mayo.edu/research/faculty/botha-hugo-m-b-ch-b/bio-20452613) to apply deep learning models for monitoring neurodegenerative diseases, particularly frontotemporal dementia, through remote voice recordings. My work focuses on tracking subtle speech changes that may serve as early indicators of cognitive decline, aiming to develop a non-invasive, cost-effective method for continuous disease monitoring.
 
-Presently, I am focused on investigating the expression and perception of [vocal emotions](/projects/1_project/) in different languages, striving to elucidate the complexities of emotional communication in speech. In addition, my work on sound variation in accented Mandarin explores [phonetic variation](/projects/3_project/) through the application of advanced [deep/machine learning models](/projects/2_project/).
+Before joining Mayo Clinic, I was a Postdoctoral Fellow in the Department of Linguistics at Simon Fraser University. I hold a PhD in Linguistics from the University of Florida, where I was mentored by Dr. [Ratree Wayland](https://slam.lin.ufl.edu/people/ratree-wayland/).
 
-Trained in linguistics, my research integrates linguistic theory with experimental and computational methods to examine the interplay between speech and cognitive processes. My work has been published in various [journals and conferences](/publications/).
+My research spans speech production and perception, computational modeling, and using speech as biomarkers. Alongside my work in neurodegenerative diseases, I explore the expression and perception of [vocal emotions](/projects/1_project/) across different languages, aiming to enhance our understanding of emotional communication. I also investigate [phonetic variation](/projects/3_project/) in accented Mandarin through advanced deep/machine learning models.
+
+With expertise in both speech sciences and computational methods, my research focuses on uncovering patterns and variations in speech to address real-world challenges, including emotional speech processing and health-related applications. My work has been published in various [journals and conferences](/publications/).
+
+

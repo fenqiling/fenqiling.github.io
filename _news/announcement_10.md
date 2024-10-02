@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2024-02-28
+date: 2024-08-27
 inline: true
 ---
-A paper has been published in the journal <i>Languages</i>.
+A co-authored paper on lenition has been published in the journal <i>JASA</i>.

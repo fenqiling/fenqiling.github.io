@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2024-01-12
+date: 2024-02-28
 inline: true
 ---
-Our project on fake news was awarded the FASS Kickstarter Grant ($14,167).
+A paper has been published in the journal <i>Languages</i>.

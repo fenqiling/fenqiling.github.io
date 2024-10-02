@@ -26,13 +26,13 @@ nav_order: 4
 * <p><b>The Sound Structure of English (Online)</b><br />
 	2021 Spring, Summer, Fall; 2022 Spring, Summer, Fall<br />
 	Harbour Education Co. Ltd.<br />
-	Co-instructor: Prof. John Harris (UCL)<br />
+	Co-instructor: Dr. John Harris (UCL)<br />
 	Role: Teaching assistant & instructor</p>
 
 * <p><b>Educational Psychology: Education, School and Society (Online)</b><br />
 	2022 Summer<br />
 	Harbour Education Co. Ltd.<br />
-	Co-instructor: Prof. Geoff Hayward (UCambridge)<br /> 
+	Co-instructor: Dr. Geoff Hayward (UCambridge)<br /> 
 	Role: Teaching assistant & instructor</p>
 
 * <p><b>American Revolution: Politics, Society and Economic Life (Online)</b><br />
@@ -44,7 +44,7 @@ nav_order: 4
 * <p><b>Ling106 Introductory Linguistics</b><br />
 	2018 Fall, 2019 Spring & Fall, 2020 Spring<br />
 	University of Kansas<br />
-	Supervisors: Dr. Philip Duncan and Prof. Alison Gabriele<br />
+	Supervisors: Dr. Philip Duncan and Dr. Alison Gabriele<br />
 	Role: Graduate teaching assistant</p>
 
 * <p><b>American Spoken English, TOEFL, and IELTS</b><br />

@@ -1,14 +1,14 @@
 ---
 layout: page
-title: sound variation
-description: investigate phonetic variation of sounds in accented Mandarin
-img: assets/img/13.jpg
+title: emotion recognition
+description: how machines recognize emotions in speech
+img: assets/img/6.jpg
 importance: 3
 ---
 
-I am particularly interested in exploring the sound variation of the lateral and retroflex fricative sounds in accented Mandarin, as these sounds may not be produced accurately by native speakers of southern Chinese dialects when speaking Mandarin. My research investigates two main questions: (1) How does native dialectal background influence the phonetic variations of these two sounds in accented Mandarin? (2) What phonological factors may affect the phonetic realization of these sounds in accented Mandarin?
+Speech emotion recognition by machines is a challenging task due to the subjective nature of emotions, contrasting with humans' seemingly effortless perception of emotions in speech. Two critical questions arise: How does the classification of emotional utterances by human raters differ from that by machine learning models? Which emotion types demonstrate a strong correlation between human raters’ assessments and modeling results?
 
-To examine the acoustic features of these two sounds among speakers of accented Mandarin, acoustic measurements were extracted from the production of Mandarin words that begin with these sounds. These measurements were then analyzed using random forest classification. The classification accuracy provides a metric for assessing the relative similarity of these two sounds across different dialectal regions. Furthermore, the computation of conditional feature importance helps illuminate the relative impact of acoustic measurements and phonological factors in predicting the pronunciation of these sounds in accented Mandarin.
+To address these questions, this project not only collects human ratings of emotional utterances but also utilizes the openSMILE Python package to extract a comprehensive set of features. A carefully selected subset of these features is then employed to train classifiers, including support vector machines (SVM) and convolutional neural networks (CNN), to predict the emotional labels of utterances.
 
 More findings from this research will be available soon. Please stay tuned for updates.
 

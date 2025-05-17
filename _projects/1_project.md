@@ -1,17 +1,12 @@
 ---
 layout: page
-title: emotions in speech
-description: how people encode and decode emotions in speech
-img: assets/img/0.jpg
+title: disordered speech
+description: use AI to classify and profile disordered speech
+img: assets/img/14.jpg
 importance: 1
 ---
 
-Emotions play an essential role in our daily communication. The emotional interaction between the speaker and the listener is a prerequisite for successful dialogue. During communication, the speaker employs a set of cues—including verbal, vocal, and visual—to convey intended emotions. In turn, these signals elicit corresponding emotional responses from the listeners. The expression and perception of emotions in speech are complex, with no consensus yet reached on the encoding and decoding mechanisms of speech emotions or their interconnections. Moreover, the relative contribution and significance of universal versus language-specific elements in interpreting emotions remain inconclusive.
-
-This project addresses three key research questions: (1) What are the specific acoustic characteristics of vocal emotions? (2) What acoustic characteristics do languages share when expressing the same vocal emotions? (3) How are different cues weighted in the perception of emotions in speech? To answer these questions, I am currently analyzing a comprehensive dataset of acoustic features extracted from emotional utterances in American English and Mandarin Chinese. Following this acoustic analysis, I plan to conduct a perceptual experiment to investigate the effects of modality and native language on the perception of emotion in speech.
-
-More findings from this research will be available soon. Please stay tuned for updates. 
-
+At Mayo Clinic, I analyze disordered speech in patients with neurodegenerative diseases to identify acoustic and temporal markers of cognitive and motor decline. In collaboration with [Drs. Hugo Botha](https://www.mayo.edu/research/faculty/botha-hugo-m-b-ch-b/bio-20452613) and [Rene Utianski] (https://www.mayo.edu/research/faculty/utianski-rene-l-ph-d/bio-20453691), I apply deep learning models to remote voice recordings from individuals with conditions such as apraxia and dysarthria. By examining features such as articulation rate, pause patterns, and vocal quality, our research aims to detect early and progressive speech changes that reflect underlying neurological deterioration. This work contributes to the development of scalable, speech-based tools for non-invasive and continuous monitoring of neurodegenerative disease.
 
 <div class="publications">
 

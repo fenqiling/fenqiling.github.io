@@ -1,14 +1,16 @@
 ---
 layout: page
-title: speech biomarker
-description: use speech as a biomarker for clinical diagnosis
-img: assets/img/4.jpg
+title: sound variation
+description: investigate phonetic variation of sounds in accented Mandarin
+img: assets/img/13.jpg
 importance: 4
 ---
 
-Since 2021, I have been worked as a graduate research assistant on an [NSF-funded project] (https://www.nsf.gov/awardsearch/showAward?AWD_ID=2037266) led by [Ratree Wayland](https://slam.lin.ufl.edu/people/ratree-wayland/) and [Kevin Tang](https://www.kevintang.org/). The project aims to integrate deep learning models with articulatory and acoustic data to predict the degrees of lenition in various speech types. This innovative approach seeks to provide unique diagnostics for both medical and linguistic purposes.
+I am particularly interested in exploring the sound variation of the lateral and retroflex fricative sounds in accented Mandarin, as these sounds may not be produced accurately by native speakers of southern Chinese dialects when speaking Mandarin. My research investigates two main questions: (1) How does native dialectal background influence the phonetic variations of these two sounds in accented Mandarin? (2) What phonological factors may affect the phonetic realization of these sounds in accented Mandarin?
 
-To quantify the degree of lenition, we employed a deep learning [Phonet](https://github.com/jcvasquezc/phonet) model. This model is trained to calculate the posterior probabilities of sonorant and continuant features of Spanish stops in diverse contexts, allowing us to compare these measurements with previously established metrics of lenition, such as those reported by Broś et al. (2021) and Kingston (2008).
+To examine the acoustic features of these two sounds among speakers of accented Mandarin, acoustic measurements were extracted from the production of Mandarin words that begin with these sounds. These measurements were then analyzed using random forest classification. The classification accuracy provides a metric for assessing the relative similarity of these two sounds across different dialectal regions. Furthermore, the computation of conditional feature importance helps illuminate the relative impact of acoustic measurements and phonological factors in predicting the pronunciation of these sounds in accented Mandarin.
+
+More findings from this research will be available soon. Please stay tuned for updates.
 
 <div class="publications">
 

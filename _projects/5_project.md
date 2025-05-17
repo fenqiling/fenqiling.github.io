@@ -1,12 +1,14 @@
 ---
 layout: page
-title: bilingualism
-description: what makes bilingual speakers special
-img: assets/img/5.jpg
+title: speech biomarkers
+description: use speech as a biomarker for clinical diagnosis
+img: assets/img/4.jpg
 importance: 5
 ---
 
-While bilingualism is commonly associated with enhancements in memory, attention, and executive functioning, there remain many attributes of bilingual speakers that are not yet fully understood. In collaboration with [Huanhuan Liu](https://www.researchgate.net/profile/Huanhuan-Liu-3) and colleagues in China, I have been involved in a series of ERP and fMRI experiments aimed at expanding our understanding of bilingualism. Our collaborative efforts have explored various topics, including the self-positivity bias in both local and foreign language contexts ([Liu et al., 2022](https://doi.org/10.1111/psyp.14145)), as well as the impact of emotional conflicts on affective processing ([Guo et al., 2022](https://doi.org/10.1007/s11571-022-09790-6)), among others. Our most recent research, which investigates the neural networks underlying language and modal control in bilinguals, has been published in the journal <i>Neuropsychologia</i>.
+Since 2021, I have been worked as a graduate research assistant on an [NSF-funded project] (https://www.nsf.gov/awardsearch/showAward?AWD_ID=2037266) led by [Ratree Wayland](https://slam.lin.ufl.edu/people/ratree-wayland/) and [Kevin Tang](https://www.kevintang.org/). The project aims to integrate deep learning models with articulatory and acoustic data to predict the degrees of lenition in various speech types. This innovative approach seeks to provide unique diagnostics for both medical and linguistic purposes.
+
+To quantify the degree of lenition, we employed a deep learning [Phonet](https://github.com/jcvasquezc/phonet) model. This model is trained to calculate the posterior probabilities of sonorant and continuant features of Spanish stops in diverse contexts, allowing us to compare these measurements with previously established metrics of lenition, such as those reported by Broś et al. (2021) and Kingston (2008).
 
 <div class="publications">
 

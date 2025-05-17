@@ -1,6 +1,6 @@
 ---
 layout: page
-title: bilingualism
+title: language and cognition
 description: what makes bilingual speakers special
 img: assets/img/5.jpg
 importance: 6

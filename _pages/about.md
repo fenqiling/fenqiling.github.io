@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Research Fellow in Neurology Artificial Intelligence at Mayo Clinic, where I collaborate with [Drs. Hugo Botha](https://www.mayo.edu/research/faculty/botha-hugo-m-b-ch-b/bio-20452613) and [Rene Utianski] (https://www.mayo.edu/research/faculty/utianski-rene-l-ph-d/bio-20453691) to apply deep learning models to investigate the speech features of patients with motor speech disorders. I earned my PhD in Linguistics from the University of Florida, where I was mentored by [Dr. Ratree Wayland](https://www.mayo.edu/research/faculty/utianski-rene-l-ph-d/bio-20453691).
+I am a Research Fellow in Neurology Artificial Intelligence at Mayo Clinic, where I collaborate with [Drs. Hugo Botha](https://www.mayo.edu/research/faculty/botha-hugo-m-b-ch-b/bio-20452613) and [Rene Utianski](https://www.mayo.edu/research/faculty/utianski-rene-l-ph-d/bio-20453691) to apply deep learning models to investigate the speech features of patients with motor speech disorders. I earned my PhD in Linguistics from the University of Florida, where I was mentored by [Dr. Ratree Wayland](https://www.mayo.edu/research/faculty/utianski-rene-l-ph-d/bio-20453691).
 
 My research spans motor speech disorders, speech biomarkers, and computational modeling. Alongside my work in motor speech disorders, I explore the expression and perception of [vocal emotions](/projects/2_project/) across different languages and investigate [phonetic variation](/projects/4_project/) in accented Mandarin through advanced deep/machine learning models.
 

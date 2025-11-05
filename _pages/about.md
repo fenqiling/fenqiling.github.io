@@ -6,7 +6,7 @@ subtitle: Mayo Clinic <br> <a href='#'>fenqiw@gmail.com</a>
 
 profile:
   align: right
-  image: fenqi_selfi_1.jpg
+  image: fenqi_selfi_3.jpg
   image_circular: false # crops the image to make it circular
   address:
 

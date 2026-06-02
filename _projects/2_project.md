@@ -1,17 +1,14 @@
 ---
 layout: page
-title: emotions in speech
-description: how people encode and decode emotions in speech
-img: assets/img/0.jpg
+title: speech biomarkers
+description: use speech as a biomarker for clinical diagnosis
+img: assets/img/4.jpg
 importance: 2
 ---
 
-Emotions play an essential role in our daily communication. The emotional interaction between the speaker and the listener is a prerequisite for successful dialogue. During communication, the speaker employs a set of cues—including verbal, vocal, and visual—to convey intended emotions. In turn, these signals elicit corresponding emotional responses from the listeners. The expression and perception of emotions in speech are complex, with no consensus yet reached on the encoding and decoding mechanisms of speech emotions or their interconnections. Moreover, the relative contribution and significance of universal versus language-specific elements in interpreting emotions remain inconclusive.
+Since 2021, I have been worked as a graduate research assistant on an [NSF-funded project] (https://www.nsf.gov/awardsearch/showAward?AWD_ID=2037266) led by [Ratree Wayland](https://slam.lin.ufl.edu/people/ratree-wayland/) and [Kevin Tang](https://www.kevintang.org/). The project aims to integrate deep learning models with articulatory and acoustic data to predict the degrees of lenition in various speech types. This innovative approach seeks to provide unique diagnostics for both medical and linguistic purposes.
 
-This project addresses three key research questions: (1) What are the specific acoustic characteristics of vocal emotions? (2) What acoustic characteristics do languages share when expressing the same vocal emotions? (3) How are different cues weighted in the perception of emotions in speech? To answer these questions, I am currently analyzing a comprehensive dataset of acoustic features extracted from emotional utterances in American English and Mandarin Chinese. Following this acoustic analysis, I plan to conduct a perceptual experiment to investigate the effects of modality and native language on the perception of emotion in speech.
-
-More findings from this research will be available soon. Please stay tuned for updates. 
-
+To quantify the degree of lenition, we employed a deep learning [Phonet](https://github.com/jcvasquezc/phonet) model. This model is trained to calculate the posterior probabilities of sonorant and continuant features of Spanish stops in diverse contexts, allowing us to compare these measurements with previously established metrics of lenition, such as those reported by Broś et al. (2021) and Kingston (2008).
 
 <div class="publications">
 

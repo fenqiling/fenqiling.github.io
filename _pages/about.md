@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Mayo Clinic <br> <a href='#'>fenqiw@gmail.com</a> 
+subtitle: Department of Neurology, Mayo Clinic
 
 profile:
   align: right
@@ -15,10 +15,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Research Fellow in Neurology Artificial Intelligence at Mayo Clinic, where I collaborate with [Drs. Hugo Botha](https://www.mayo.edu/research/faculty/botha-hugo-m-b-ch-b/bio-20452613) and [Rene Utianski](https://www.mayo.edu/research/faculty/utianski-rene-l-ph-d/bio-20453691) to apply deep learning models to investigate the speech features of patients with motor speech disorders. I earned my PhD in Linguistics from the University of Florida, where I was mentored by [Dr. Ratree Wayland](https://www.mayo.edu/research/faculty/utianski-rene-l-ph-d/bio-20453691).
+I am an Assistant Professor of Neurology and Research Fellow in Neurology AI at Mayo Clinic, where I develop AI-powered approaches to characterize speech and language in patients with motor speech disorders, working alongside [Drs. Hugo Botha](https://www.mayo.edu/research/faculty/botha-hugo-m-b-ch-b/bio-20452613) and [Rene Utianski](https://www.mayo.edu/research/faculty/utianski-rene-l-ph-d/bio-20453691). I hold a PhD in Linguistics from the University of Florida, where I was mentored by [Dr. Ratree Wayland](https://www.mayo.edu/research/faculty/utianski-rene-l-ph-d/bio-20453691).
 
-My research spans motor speech disorders, speech biomarkers, and computational modeling. Alongside my work in motor speech disorders, I explore the expression and perception of [vocal emotions](/projects/2_project/) across different languages and investigate [phonetic variation](/projects/4_project/) in accented Mandarin through advanced deep/machine learning models.
+My research centers on applying deep learning to discover speech biomarkers that can improve the diagnosis and monitoring of motor speech disorders. Alongside this clinical focus, I pursue broader questions at the intersection of speech perception and production, including [cross-linguistic vocal emotion](/projects/2_project/) and [phonetic variation](/projects/4_project/) in non-native speech.
 
-With expertise in both speech sciences and computational methods, my research focuses on uncovering patterns and variations in speech to address real-world challenges. My work has been published in various [journals and conferences](/publications/).
-
-
+As a speech-language scientist, my work bridges neurology, speech-language pathology, linguistics, and AI to advance our understanding of speech and language in clinical populations, from fundamental mechanisms to clinical application. My research has been published in a range of [journals and conferences](/publications/).

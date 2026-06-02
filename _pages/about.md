@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Mayo Clinic <br> <a href='#'>fenqiw@gmail.com</a> 
+subtitle: Mayo Clinic
 
 profile:
   align: right

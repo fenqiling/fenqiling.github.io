@@ -12,6 +12,6 @@ To quantify the degree of lenition, we employed a deep learning [Phonet](https:/
 
 <div class="publications">
 
-{% bibliography -f project_2 --group_by section, year --group_order descending, descending %}
+{% bibliography -f project_5 --group_by section, year --group_order descending, descending %}
 
 </div>

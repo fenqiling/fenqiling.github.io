@@ -15,6 +15,6 @@ More findings from this research will be available soon. Please stay tuned for u
 
 <div class="publications">
 
-{% bibliography -f project_3 --group_by section, year --group_order descending, descending %}
+{% bibliography -f project_2 --group_by section, year --group_order descending, descending %}
 
 </div>

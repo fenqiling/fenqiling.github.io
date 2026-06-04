@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: A full list of publications can be found at my google scholar page (†: equal contribution; *: mentee).
+description: "A full list of publications can be found at my google scholar page (†: equal contribution; *: mentee)."
 nav: true
 nav_order: 2
 ---

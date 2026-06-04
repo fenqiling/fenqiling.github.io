@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sound Variation  
-description: Phonetic variation in languages
+description: Phonetic variation across regional varieties of languages
 img: assets/img/4.jpg
 importance: 5
 ---

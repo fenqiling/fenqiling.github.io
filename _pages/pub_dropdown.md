@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-nav: true
+nav: false
 nav_order: 2
 dropdown: true
 children:

@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Department of Neurology, Mayo Clinic
+subtitle: Mayo Clinic
 
 profile:
   align: right
@@ -15,11 +15,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an Assistant Professor of Neurology and Research Fellow in Neurology AI at Mayo Clinic, where I work with [Drs. Hugo Botha](https://www.mayo.edu/research/faculty/botha-hugo-m-b-ch-b/bio-20452613) and [Rene Utianski](https://www.mayo.edu/research/faculty/utianski-rene-l-ph-d/bio-20453691) to apply deep learning to the speech and language of patients with motor speech disorders. I hold a PhD in Linguistics from the University of Florida, where I was mentored by [Dr. Ratree Wayland](https://www.mayo.edu/research/faculty/utianski-rene-l-ph-d/bio-20453691).
+I am an Assistant Professor of Neurology and Research Fellow in Neurology AI at Mayo Clinic, where I develop AI pipelines to analyze speech and language as biomarkers of neurological disease. Working with Dr. [Hugo Botha](https://www.mayo.edu/research/faculty/botha-hugo-m-b-ch-b/bio-20452613) and Dr. [Rene Utianski](https://www.mayo.edu/research/faculty/utianski-rene-l-ph-d/bio-20453691), I investigate how changes in speech and language reflect motor and cognitive decline in neurodegenerative disorders.
 
-My research spans motor speech disorders, neurodegenerative diseases, and speech biomarkers. Beyond clinical applications, I also study the expression and perception of [vocal emotions](/projects/project_2/) across languages and model [phonetic variation](/projects/project_4/) in regional varieties of languages using machine and deep learning approaches.
+My research sits at the intersection of AI, neurology, speech-language pathology, and linguistics. I use machine learning and deep learning to study motor speech disorders, develop speech-based biomarkers, and advance scalable tools for disease detection and monitoring.
 
-My work has appeared in leading [journals and conferences](/publications/) in neurology, speech-language pathology, and speech science.
+Beyond clinical applications, I examine how emotions are expressed and perceived in speech across languages and how linguistic experience shapes speech production, perception, and cognition.
 
-
-
+I received my PhD in Linguistics from the University of Florida under the mentorship of Dr. [Ratree Wayland](https://slam.lin.ufl.edu/people/ratree-wayland/). My work has appeared in leading journals and conferences in neurology, speech-language pathology, linguistics, and speech science.

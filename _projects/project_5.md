@@ -1,14 +1,12 @@
 ---
 layout: page
-title: speech biomarkers
-description: use speech as a biomarker for clinical diagnosis
+title: Speech Biomarkers
+description: Speech biomarkers for clinical diagnosis
 img: assets/img/4.jpg
 importance: 2
 ---
 
-Since 2021, I have been worked as a graduate research assistant on an [NSF-funded project] (https://www.nsf.gov/awardsearch/showAward?AWD_ID=2037266) led by [Ratree Wayland](https://slam.lin.ufl.edu/people/ratree-wayland/) and [Kevin Tang](https://www.kevintang.org/). The project aims to integrate deep learning models with articulatory and acoustic data to predict the degrees of lenition in various speech types. This innovative approach seeks to provide unique diagnostics for both medical and linguistic purposes.
-
-To quantify the degree of lenition, we employed a deep learning [Phonet](https://github.com/jcvasquezc/phonet) model. This model is trained to calculate the posterior probabilities of sonorant and continuant features of Spanish stops in diverse contexts, allowing us to compare these measurements with previously established metrics of lenition, such as those reported by Broś et al. (2021) and Kingston (2008).
+Can speech provide reliable biomarkers for diagnosis and assessment? This project investigates how acoustic and articulatory features of speech can be used to develop objective measures of human communication and health. By integrating speech science and machine learning, I aim to identify speech-based markers that support both clinical applications and linguistic research.
 
 <div class="publications">
 

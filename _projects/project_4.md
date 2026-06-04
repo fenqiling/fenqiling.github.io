@@ -1,16 +1,12 @@
 ---
 layout: page
-title: sound variation  
-description: investigate phonetic variation of sounds in accented Mandarin
+title: Sound Variation  
+description: Phonetic variation in languages
 img: assets/img/4.jpg
 importance: 5
 ---
 
-I am particularly interested in exploring the sound variation of the lateral and retroflex fricative sounds in accented Mandarin, as these sounds may not be produced accurately by native speakers of southern Chinese dialects when speaking Mandarin. My research investigates two main questions: (1) How does native dialectal background influence the phonetic variations of these two sounds in accented Mandarin? (2) What phonological factors may affect the phonetic realization of these sounds in accented Mandarin?
-
-To examine the acoustic features of these two sounds among speakers of accented Mandarin, acoustic measurements were extracted from the production of Mandarin words that begin with these sounds. These measurements were then analyzed using random forest classification. The classification accuracy provides a metric for assessing the relative similarity of these two sounds across different dialectal regions. Furthermore, the computation of conditional feature importance helps illuminate the relative impact of acoustic measurements and phonological factors in predicting the pronunciation of these sounds in accented Mandarin.
-
-More findings from this research will be available soon. Please stay tuned for updates.
+Speech sounds vary across regions, dialects, and speakers. This project explores how linguistic background shapes patterns of speech production and variation. Using acoustic analysis and machine learning techniques, I investigate the phonetic and phonological factors that drive sound variation and reveal broader patterns of speech diversity across communities.
 
 <div class="publications">
 
